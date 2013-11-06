@@ -1,0 +1,234 @@
+[
+    {
+        "uri": "start.html",
+        "id": "title",
+        "class": "step title",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "scale": 4
+        }
+    },
+    {
+        "uri": "product.html",
+        "id": "product",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": 3050,
+            "scale": 1,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "execution.html",
+        "id": "execution",
+        "class": "step",
+        "data": {
+            "x": 950,
+            "y": 4050,
+            "scale": 1,
+            "rotate-z": 72
+        }
+    },
+    {
+        "uri": "testing.html",
+        "id": "testing",
+        "class": "step",
+        "data": {
+            "x": 325,
+            "y": 5200,
+            "scale": 1,
+            "rotate-z": 144
+        }
+    },
+    {
+        "uri": "release.html",
+        "id": "release",
+        "class": "step",
+        "data": {
+            "x": -850,
+            "y": 4900,
+            "scale": 1,
+            "rotate-z": 216
+        }
+    },
+    {
+        "uri": "feedback.html",
+        "id": "feedback",
+        "class": "step",
+        "data": {
+            "x": -925,
+            "y": 3650,
+            "scale": 1,
+            "rotate-z": 288
+        }
+    },
+    {
+        "uri": "cycle.html",
+        "id": "cycle",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": 4200,
+            "scale": 3,
+            "rotate-z": 360,
+            "z": 1000
+        }
+    },
+    {
+        "uri": "problem.html",
+        "id": "problem",
+        "class": "step",
+        "data": {
+            "x": 6000,
+            "y": 4200,
+            "scale": 3,
+            "rotate-z": 360,
+            "z": 1000
+        }
+    },
+    {
+        "uri": "confirmation.html",
+        "id": "confirmation",
+        "class": "step",
+        "data": {
+            "x": 6000,
+            "y": 4000,
+            "scale": 1,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "istanbul.html",
+        "id": "istanbul",
+        "class": "step",
+        "data": {
+            "x": 3500,
+            "y": 0,
+            "scale": 1,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "never-covered.html",
+        "id": "never-covered",
+        "class": "step",
+        "data": {
+            "x": 3500,
+            "y": 2000,
+            "scale": 1,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "liar.html",
+        "id": "liar",
+        "class": "step",
+        "data": {
+            "x": 3500,
+            "y": 2000,
+            "z": -500,
+            "scale": 2,
+            "rotate-z": 0,
+            "rotate-x": -45
+        }
+    },
+    {
+        "uri": "code-coverage.html",
+        "id": "code-coverage",
+        "class": "step",
+        "data": {
+            "x": 6000,
+            "y": 0,
+            "scale": 1,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "why-code-coverage.html",
+        "id": "why-code-coverage",
+        "class": "step",
+        "data": {
+            "x": 6000,
+            "y": 2000,
+            "scale": 1,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "istanbul-features.html",
+        "id": "istanbul-features",
+        "class": "step",
+        "data": {
+            "x": 14500,
+            "y": 2000,
+            "scale": 1,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "understanding-javascript.html",
+        "id": "understanding-javascript",
+        "class": "step",
+        "data": {
+            "x": 14500,
+            "y": 2000,
+            "scale": 1,
+            "rotate-x": -90,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "line-level-analyzation.html",
+        "id": "line-level-analyzation",
+        "class": "step",
+        "data": {
+            "x": 14500,
+            "y": 2000,
+            "z": -1500,
+            "scale": 0.75,
+            "rotate-x": -90,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "charting.html",
+        "id": "charting",
+        "class": "step",
+        "data": {
+            "x": 14500,
+            "y": 2000,
+            "z": -3000,
+            "scale": 0.5,
+            "rotate-x": -90,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "git-hooking.html",
+        "id": "git-hooking",
+        "class": "step",
+        "data": {
+            "x": 14500,
+            "y": 2000,
+            "z": -4500,
+            "scale": 0.25,
+            "rotate-x": -90,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "law-of-averages.html",
+        "id": "law-of-averages",
+        "class": "step",
+        "data": {
+            "x": 13500,
+            "y": 2000,
+            "z": -4500,
+            "scale": 1,
+            "rotate-x": -90,
+            "rotate-z": -90
+        }
+    }
+]

@@ -1,0 +1,48 @@
+.notes {
+    display:none;
+}
+
+ul {
+    list-style-type: disc;
+    list-style-position: outside;
+}
+
+ol {
+    list-style: decimal;
+}
+
+.footnote {
+    font-size: 50%;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+.step h2 {
+    font-size: 78px;
+    font-weight: bold;
+}
+
+body.impress-on-cycle .step {
+    opacity: 1;
+}
+
+body.impress-on-cycle .step h3 {
+    opacity: 0;
+}
+
+body.impress-on-problem #confirmation.step {
+    opacity: 0;
+}
+
+body.impress-on-never-covered #liar.step {
+    display: none;
+}
+
+iframe {
+    border: 1px dashed grey;
+    width: 840px;
+    height: 480px;
+    overflow: scroll;
+}
