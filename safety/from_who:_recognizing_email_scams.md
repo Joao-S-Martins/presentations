@@ -5,6 +5,9 @@ Recognizing a scam before opening the message.
 
 ---
 # Who's it from?
+The `from` line of your email should be the first place you look when you're trying to catch a scammer.
+---
+
 Very Risky       | Less Risky
 -----------------|------------------
 Friends & family you haven't spoken with in a long time. | Friends and family you regularly speak with.
@@ -19,6 +22,6 @@ Scammers are great at their jobs and masters of disguise.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2OTIxNTc5LDc5NzAwMjc4OSw4Mjk2Nj
-A1LC01NjkxNjc5MzBdfQ==
+eyJoaXN0b3J5IjpbNzE4MDk4NTcyLDc1NjkyMTU3OSw3OTcwMD
+I3ODksODI5NjYwNSwtNTY5MTY3OTMwXX0=
 -->
