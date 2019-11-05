@@ -33,7 +33,7 @@ Sometimes scammers pretend to be from a local agency, such as your county Sherif
 # Banks & creditors
 Very Risky | Less Risky
 -----------|-----------
-Banks that you haven't done new business with the past year. | Banks that you use every month.
+Banks and creditors that you haven't done new business with in the past year. | Banks that you use every month.
 
 ???
 When hackers steal data from a bank, they
@@ -52,7 +52,7 @@ Scammers are great at their jobs and masters of disguise.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MTMzMTgxMCwtMjMwMjQxNTg5LC02Nz
-gxMjg0NDYsLTk1OTUzOTA0NCwtMjEwOTMwNjY1MSw3NTY5MjE1
-NzksNzk3MDAyNzg5LDgyOTY2MDUsLTU2OTE2NzkzMF19
+eyJoaXN0b3J5IjpbLTExNTk4NDQwODUsLTIzMDI0MTU4OSwtNj
+c4MTI4NDQ2LC05NTk1MzkwNDQsLTIxMDkzMDY2NTEsNzU2OTIx
+NTc5LDc5NzAwMjc4OSw4Mjk2NjA1LC01NjkxNjc5MzBdfQ==
 -->
