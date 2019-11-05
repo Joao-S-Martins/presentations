@@ -13,13 +13,19 @@ Very Risky       | Less Risky
 -----------------|------------------
 People you haven't spoken with in a long time. | People you regularly speak with.
 
+???
+A scammer might use 
+
 ---
 # Banks
 
 ---
+# Credit companies
 
-Banking & credit accounts you haven't used in a long time. | Stores you regularly shop at.
-Banks you
+---
+# Stores
+
+---
 
 ???
 Scammers are great at their jobs and masters of disguise.
@@ -29,6 +35,6 @@ Scammers are great at their jobs and masters of disguise.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzcyMTkxNSw3NTY5MjE1NzksNzk3MD
+eyJoaXN0b3J5IjpbMTcyNzc3MjQ4Myw3NTY5MjE1NzksNzk3MD
 AyNzg5LDgyOTY2MDUsLTU2OTE2NzkzMF19
 -->
