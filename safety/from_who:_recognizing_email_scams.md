@@ -14,7 +14,8 @@ Very Risky       | Less Risky
 People you haven't spoken with in a long time. | People you regularly speak with.
 
 ???
-Personal email accounts get hacked. Those hackers will then use those accounts to send out scam emails to everyone of the victim's 
+Personal email accounts get hacked. Those hackers will then use thier victim's accounts to send out scam emails to everyone of the victim's contact lists. Don't be the next victim.
+If you get an email from someone you haven't heard from in a while, or someone you
 
 ---
 # Banks
@@ -35,6 +36,6 @@ Scammers are great at their jobs and masters of disguise.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjUyNzc5Nyw3NTY5MjE1NzksNzk3MD
-AyNzg5LDgyOTY2MDUsLTU2OTE2NzkzMF19
+eyJoaXN0b3J5IjpbLTE0NTY2NTIxMTgsNzU2OTIxNTc5LDc5Nz
+AwMjc4OSw4Mjk2NjA1LC01NjkxNjc5MzBdfQ==
 -->
