@@ -26,8 +26,8 @@ Very Risky | Less Risky
 All of them. | Messages from specific employees at an agency that you have recently contacted.
 
 ???
-Scammers often pretent to be from large government agencies with familiar names, like the FBI, CIA, IRS, and the VA or DMV. These agencies don't typically use email to contact you. Government agencies still rely on paper mail or knocking on your door when they need something from you. They sometimes send confirmation emails or reminder emails, but only after you've done recent business with them.
-Sometimes scammers pretend to be from a local agency, such as your county Sheriff's office or a property tax collector. But when they do this, they often call themselves the "County Sheriff" or "County Tax Collector". Every real email I've seen from a county agency makes sure to say which county. Scammers don't usually know which county you
+Scammers often pretent to be from large government agencies with familiar names, like the FBI, CIA, IRS, and the VA or DMV. These agencies don't typically use email to contact you. Government agencies still rely on **paper mail** or knocking on your door when they need something from you. They sometimes send confirmation emails or reminder emails, but only after you've done recent business with them.
+Sometimes scammers pretend to be from a local agency, such as your county Sheriff's office or a property tax collector. But when they do this, they often call themselves the "County Sheriff" or "County Tax Collector". Every **real** email I've seen from a county agency makes sure to say *which* county. Scammers don't usually know which county you live in a
 
 ---
 # Banks & creditors
@@ -51,7 +51,7 @@ Scammers are great at their jobs and masters of disguise.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTk3NTEzLC0yMzAyNDE1ODksLTY3OD
-EyODQ0NiwtOTU5NTM5MDQ0LC0yMTA5MzA2NjUxLDc1NjkyMTU3
-OSw3OTcwMDI3ODksODI5NjYwNSwtNTY5MTY3OTMwXX0=
+eyJoaXN0b3J5IjpbLTE3NDc5MTc3NjksLTIzMDI0MTU4OSwtNj
+c4MTI4NDQ2LC05NTk1MzkwNDQsLTIxMDkzMDY2NTEsNzU2OTIx
+NTc5LDc5NzAwMjc4OSw4Mjk2NjA1LC01NjkxNjc5MzBdfQ==
 -->
