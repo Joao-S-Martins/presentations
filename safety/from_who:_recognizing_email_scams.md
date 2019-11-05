@@ -32,6 +32,7 @@ When hackers steal data from a bank, they
 # Credit companies
 
 ---
+
 # Stores
 
 ---
@@ -44,7 +45,7 @@ Scammers are great at their jobs and masters of disguise.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1OTUzOTA0NCwtMjEwOTMwNjY1MSw3NT
-Y5MjE1NzksNzk3MDAyNzg5LDgyOTY2MDUsLTU2OTE2NzkzMF19
-
+eyJoaXN0b3J5IjpbLTEwMzc1MDA4MTgsLTk1OTUzOTA0NCwtMj
+EwOTMwNjY1MSw3NTY5MjE1NzksNzk3MDAyNzg5LDgyOTY2MDUs
+LTU2OTE2NzkzMF19
 -->
