@@ -14,9 +14,9 @@ Very Risky | Less Risky
 People you haven't spoken with in a long time. | People you regularly message.
 
 ???
-Personal email accounts and contact lists get hacked. Those hackers then send out scam emails to everyone their victim know.
-Don't be the next victim.dd
-If you get an email from someone you haven't heard from in a while, or someone you regularly speak with but rarely email, then they might have been hacked by a scammer who wants to get you next.
+Personal email accounts and contact lists get hacked. Those hackers then send out scam emails to everyone their victim knows.
+Don't be the next victim!
+If you get an email from someone you haven't heard from in a long time, or maybe someone you regularly speak to but *rarely* by email, then they might have been hacked by a scammer who wants to get you next.
 
 ---
 # Banks
@@ -37,7 +37,7 @@ Scammers are great at their jobs and masters of disguise.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE3NTczNDEzLC0yMTA5MzA2NjUxLDc1Nj
-kyMTU3OSw3OTcwMDI3ODksODI5NjYwNSwtNTY5MTY3OTMwXX0=
+eyJoaXN0b3J5IjpbMTY5NjU3NTA0OSwtMjEwOTMwNjY1MSw3NT
+Y5MjE1NzksNzk3MDAyNzg5LDgyOTY2MDUsLTU2OTE2NzkzMF19
 
 -->
