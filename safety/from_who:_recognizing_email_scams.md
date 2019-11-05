@@ -26,7 +26,7 @@ Very Risky | Less Risky
 All of them. | Messages from specific employees at an agency that you have recently contacted.
 
 ???
-Scammers often pretent to be from large government agencies with familiar names, like the FBI, CIA, IRS, and the VA.
+Scammers often pretent to be from large government agencies with familiar names, like the FBI, CIA, IRS, and the VA. These agencies don't typically use email as their primary method of communication. Government agencies still rely paper mail to 
 Sometimes they pretend to be from a local agency, such as your county Sheriff's office. But when they do this, they often refer to themselves as "County Sheriff" or "County Tax Collector". Your local county agencies will typically use the actual name of your county when addressing themselves. 
 
 ---
@@ -51,7 +51,7 @@ Scammers are great at their jobs and masters of disguise.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjc4ODMyODIsLTIzMDI0MTU4OSwtNj
-c4MTI4NDQ2LC05NTk1MzkwNDQsLTIxMDkzMDY2NTEsNzU2OTIx
-NTc5LDc5NzAwMjc4OSw4Mjk2NjA1LC01NjkxNjc5MzBdfQ==
+eyJoaXN0b3J5IjpbMTYxNTE5NjIyMCwtMjMwMjQxNTg5LC02Nz
+gxMjg0NDYsLTk1OTUzOTA0NCwtMjEwOTMwNjY1MSw3NTY5MjE1
+NzksNzk3MDAyNzg5LDgyOTY2MDUsLTU2OTE2NzkzMF19
 -->
