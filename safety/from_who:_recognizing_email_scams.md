@@ -20,10 +20,13 @@ If you get an email from someone you haven't heard from in a long time, or maybe
 Even people who regularly email you could have fallen victim to a hacker, so be cautious if anything seems out of the ordinary, such as an unusual subject line or an email attachment.
 
 ---
-# Government entities
+# Government agencies
 Very Risky | Less Risky
 -----------|-----------
-All of them. | 
+All of them. | Messages from specific employees at an agency that you have recently contacted.
+
+???
+Pretending to repre
 
 ---
 # Banks
@@ -50,7 +53,7 @@ Scammers are great at their jobs and masters of disguise.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4ODgzMjI1NSwtOTU5NTM5MDQ0LC0yMT
-A5MzA2NjUxLDc1NjkyMTU3OSw3OTcwMDI3ODksODI5NjYwNSwt
-NTY5MTY3OTMwXX0=
+eyJoaXN0b3J5IjpbODUxOTg0NDIwLC05NTk1MzkwNDQsLTIxMD
+kzMDY2NTEsNzU2OTIxNTc5LDc5NzAwMjc4OSw4Mjk2NjA1LC01
+NjkxNjc5MzBdfQ==
 -->
