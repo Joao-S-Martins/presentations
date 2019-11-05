@@ -26,7 +26,7 @@ Very Risky | Less Risky
 All of them. | Messages from specific employees at an agency that you have recently contacted.
 
 ???
-Scammers often pretent to be from large government agencies with names that catch your attention, like the FBI, CIA, and IRS. Sometimes they pretend to be 
+Scammers often pretent to be from large government agencies with familiar names, like the FBI, CIA, IRS, and the VA. Sometimes they pretend to be from a local agency, such as your county Sheriff's office.
 
 ---
 # Banks
@@ -53,7 +53,7 @@ Scammers are great at their jobs and masters of disguise.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDk1OTgwMywtNjc4MTI4NDQ2LC05NT
+eyJoaXN0b3J5IjpbLTIzMDI0MTU4OSwtNjc4MTI4NDQ2LC05NT
 k1MzkwNDQsLTIxMDkzMDY2NTEsNzU2OTIxNTc5LDc5NzAwMjc4
 OSw4Mjk2NjA1LC01NjkxNjc5MzBdfQ==
 -->
