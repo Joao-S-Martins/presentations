@@ -1,7 +1,9 @@
 
 
-# From Who?
-Recognizing an email scam before you click 
+# Message From Who?
+Recognizing a scam before opening the message.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5OTIxNzk4OF19
+eyJoaXN0b3J5IjpbLTU2OTE2NzkzMF19
 -->
