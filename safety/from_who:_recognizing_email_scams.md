@@ -26,7 +26,7 @@ Very Risky | Less Risky
 All of them. | Messages from specific employees at an agency that you have recently contacted.
 
 ???
-Pretending to repre
+Scammers often pretent to be from a large government agency.
 
 ---
 # Banks
@@ -53,7 +53,7 @@ Scammers are great at their jobs and masters of disguise.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUxOTg0NDIwLC05NTk1MzkwNDQsLTIxMD
-kzMDY2NTEsNzU2OTIxNTc5LDc5NzAwMjc4OSw4Mjk2NjA1LC01
-NjkxNjc5MzBdfQ==
+eyJoaXN0b3J5IjpbLTY3ODEyODQ0NiwtOTU5NTM5MDQ0LC0yMT
+A5MzA2NjUxLDc1NjkyMTU3OSw3OTcwMDI3ODksODI5NjYwNSwt
+NTY5MTY3OTMwXX0=
 -->
