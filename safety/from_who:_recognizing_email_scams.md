@@ -2,7 +2,7 @@
 
 # Message From Who?
 Recognizing a scam before opening the message.
-- Someone or company you've never  heard of
+- Someone or company you've never heard of
 ---
 # Who's it from?
 
@@ -11,5 +11,5 @@ Recognizing a scam before opening the message.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTA0NTQwLC01NjkxNjc5MzBdfQ==
+eyJoaXN0b3J5IjpbMTAxMDMwODI2MCwtNTY5MTY3OTMwXX0=
 -->
