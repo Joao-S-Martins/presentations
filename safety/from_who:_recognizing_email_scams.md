@@ -23,7 +23,10 @@ Even people who regularly email you could have fallen victim to a hacker, so be 
 # Banks
 Very Risky | Less Risky
 -----------|-----------
-Banks that you haven't done new business with 
+Banks that you haven't done new business with the past year. | Banks that you use every month.
+
+???
+Scammers will 
 
 ---
 # Credit companies
@@ -41,7 +44,7 @@ Scammers are great at their jobs and masters of disguise.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyNDAxODQ1LC0yMTA5MzA2NjUxLDc1Nj
-kyMTU3OSw3OTcwMDI3ODksODI5NjYwNSwtNTY5MTY3OTMwXX0=
-
+eyJoaXN0b3J5IjpbLTE1NTQ0NzQ3NTIsLTIxMDkzMDY2NTEsNz
+U2OTIxNTc5LDc5NzAwMjc4OSw4Mjk2NjA1LC01NjkxNjc5MzBd
+fQ==
 -->
