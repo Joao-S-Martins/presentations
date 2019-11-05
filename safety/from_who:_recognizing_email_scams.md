@@ -26,7 +26,7 @@ Very Risky | Less Risky
 Banks that you haven't done new business with the past year. | Banks that you use every month.
 
 ???
-Scammers will 
+When hackers steal data from a bank, they
 
 ---
 # Credit companies
@@ -44,7 +44,7 @@ Scammers are great at their jobs and masters of disguise.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTQ0NzQ3NTIsLTIxMDkzMDY2NTEsNz
-U2OTIxNTc5LDc5NzAwMjc4OSw4Mjk2NjA1LC01NjkxNjc5MzBd
-fQ==
+eyJoaXN0b3J5IjpbLTk1OTUzOTA0NCwtMjEwOTMwNjY1MSw3NT
+Y5MjE1NzksNzk3MDAyNzg5LDgyOTY2MDUsLTU2OTE2NzkzMF19
+
 -->
