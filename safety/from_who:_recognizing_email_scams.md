@@ -36,7 +36,7 @@ Very Risky | Less Risky
 Banks and creditors that you haven't done new business with in the past year. | Banks that you use every month.
 
 ???
-While most scammers try to sneak programs onto your computer or trick yome scammers go straight for your wallet
+While most scammers try to sneak programs onto your computer or trick you into sending them money, some scammers go straight for your wallet. If you get an emal
 
 ---
 # Stores
@@ -52,8 +52,8 @@ Scammers are great at their jobs and masters of disguise.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTU3NTM1NCwtMTE1OTg0NDA4NSwtMj
-MwMjQxNTg5LC02NzgxMjg0NDYsLTk1OTUzOTA0NCwtMjEwOTMw
-NjY1MSw3NTY5MjE1NzksNzk3MDAyNzg5LDgyOTY2MDUsLTU2OT
-E2NzkzMF19
+eyJoaXN0b3J5IjpbLTY2MDM5MzQ5LC0xMTU5ODQ0MDg1LC0yMz
+AyNDE1ODksLTY3ODEyODQ0NiwtOTU5NTM5MDQ0LC0yMTA5MzA2
+NjUxLDc1NjkyMTU3OSw3OTcwMDI3ODksODI5NjYwNSwtNTY5MT
+Y3OTMwXX0=
 -->
