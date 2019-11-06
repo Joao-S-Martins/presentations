@@ -36,7 +36,7 @@ Very Risky | Less Risky
 Banks and creditors that you haven't done new business with in the past year. | Banks that you use every month.
 
 ???
-While most scammers try to sneak programs onto your computer or trick you into sending them money, some scammers go straight for your wallet. Hackers sell 
+While most scammers try to sneak programs onto your computer or trick you into sending them money, some go straight for your wallet. S
 
 ---
 # Stores
@@ -52,8 +52,8 @@ Scammers are great at their jobs and masters of disguise.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDUwMTUzNDYsLTExNTk4NDQwODUsLT
-IzMDI0MTU4OSwtNjc4MTI4NDQ2LC05NTk1MzkwNDQsLTIxMDkz
-MDY2NTEsNzU2OTIxNTc5LDc5NzAwMjc4OSw4Mjk2NjA1LC01Nj
-kxNjc5MzBdfQ==
+eyJoaXN0b3J5IjpbLTM0OTAyMjQ4NSwtMTE1OTg0NDA4NSwtMj
+MwMjQxNTg5LC02NzgxMjg0NDYsLTk1OTUzOTA0NCwtMjEwOTMw
+NjY1MSw3NTY5MjE1NzksNzk3MDAyNzg5LDgyOTY2MDUsLTU2OT
+E2NzkzMF19
 -->
