@@ -36,7 +36,8 @@ Very Risky | Less Risky
 Banks and creditors that you haven't done new business with in the past year. | Banks that you use every month.
 
 ???
-While most scammers try to sneak programs onto your computer or trick you into sending them money, some go straight for your wallet. Scammers buy lists of email address that were stolen form spcific banks. With those lists, they are able to send you an email pretending to be a bank they know you'
+While most scammers try to sneak programs onto your computer or trick you into sending them money, some go straight for your wallet. Scammers buy lists of email address that were stolen form spcific banks. With those lists, they are able to send you an email pretending to be a bank they know you've done business with.
+Unfortunately, you can't just ignore all emails from banks because many banks and credit card companies use email to alert you of suspicious be
 
 ---
 # Stores
@@ -52,8 +53,8 @@ Scammers are great at their jobs and masters of disguise.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MDA0MTQ4MywtMTE1OTg0NDA4NSwtMj
-MwMjQxNTg5LC02NzgxMjg0NDYsLTk1OTUzOTA0NCwtMjEwOTMw
-NjY1MSw3NTY5MjE1NzksNzk3MDAyNzg5LDgyOTY2MDUsLTU2OT
-E2NzkzMF19
+eyJoaXN0b3J5IjpbLTE4ODk0MzkxMTYsLTExNTk4NDQwODUsLT
+IzMDI0MTU4OSwtNjc4MTI4NDQ2LC05NTk1MzkwNDQsLTIxMDkz
+MDY2NTEsNzU2OTIxNTc5LDc5NzAwMjc4OSw4Mjk2NjA1LC01Nj
+kxNjc5MzBdfQ==
 -->
