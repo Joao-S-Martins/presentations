@@ -36,7 +36,7 @@ Very Risky | Less Risky
 Banks and creditors that you haven't done new business with in the past year. | Banks that you use every month.
 
 ???
-When hackers steal data from a bank, they
+While most scammers try to sneak programs onto your computer or trick yome scammers go straight for your wallet
 
 ---
 # Stores
@@ -52,7 +52,8 @@ Scammers are great at their jobs and masters of disguise.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTk4NDQwODUsLTIzMDI0MTU4OSwtNj
-c4MTI4NDQ2LC05NTk1MzkwNDQsLTIxMDkzMDY2NTEsNzU2OTIx
-NTc5LDc5NzAwMjc4OSw4Mjk2NjA1LC01NjkxNjc5MzBdfQ==
+eyJoaXN0b3J5IjpbMTA1MTU3NTM1NCwtMTE1OTg0NDA4NSwtMj
+MwMjQxNTg5LC02NzgxMjg0NDYsLTk1OTUzOTA0NCwtMjEwOTMw
+NjY1MSw3NTY5MjE1NzksNzk3MDAyNzg5LDgyOTY2MDUsLTU2OT
+E2NzkzMF19
 -->
