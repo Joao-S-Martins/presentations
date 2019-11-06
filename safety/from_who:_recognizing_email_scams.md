@@ -43,6 +43,9 @@ Unfortunately, you can't just ignore all emails from banks because most banks an
 # Stores
 
 ---
+# Dating sites
+
+---
 
 ???
 Scammers are great at their jobs and masters of disguise.
@@ -53,8 +56,8 @@ Scammers are great at their jobs and masters of disguise.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTA4MTUyMDksLTExNTk4NDQwODUsLT
-IzMDI0MTU4OSwtNjc4MTI4NDQ2LC05NTk1MzkwNDQsLTIxMDkz
-MDY2NTEsNzU2OTIxNTc5LDc5NzAwMjc4OSw4Mjk2NjA1LC01Nj
-kxNjc5MzBdfQ==
+eyJoaXN0b3J5IjpbMTg0MDIyNDEzNiwtMjExMDgxNTIwOSwtMT
+E1OTg0NDA4NSwtMjMwMjQxNTg5LC02NzgxMjg0NDYsLTk1OTUz
+OTA0NCwtMjEwOTMwNjY1MSw3NTY5MjE1NzksNzk3MDAyNzg5LD
+gyOTY2MDUsLTU2OTE2NzkzMF19
 -->
