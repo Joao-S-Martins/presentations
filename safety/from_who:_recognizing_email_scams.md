@@ -51,13 +51,13 @@ Unfortunately, you can't just ignore all emails from banks because most banks an
 Scammers are great at their jobs and masters of disguise.
 
 ---
-# Who's it *really* from?
+# Who is it *really* from?
 # What's the subject?
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDIyNDEzNiwtMjExMDgxNTIwOSwtMT
-E1OTg0NDA4NSwtMjMwMjQxNTg5LC02NzgxMjg0NDYsLTk1OTUz
-OTA0NCwtMjEwOTMwNjY1MSw3NTY5MjE1NzksNzk3MDAyNzg5LD
-gyOTY2MDUsLTU2OTE2NzkzMF19
+eyJoaXN0b3J5IjpbMjAzNTQwMzExNiwxODQwMjI0MTM2LC0yMT
+EwODE1MjA5LC0xMTU5ODQ0MDg1LC0yMzAyNDE1ODksLTY3ODEy
+ODQ0NiwtOTU5NTM5MDQ0LC0yMTA5MzA2NjUxLDc1NjkyMTU3OS
+w3OTcwMDI3ODksODI5NjYwNSwtNTY5MTY3OTMwXX0=
 -->
