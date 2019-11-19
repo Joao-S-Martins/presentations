@@ -48,7 +48,7 @@ Unfortunately, you can't just ignore all emails from banks because most banks an
 ---
 
 ???
-Scammers are great at their jobs and masters of disguise. The old scam of reading obituaries and mailing widows is alive and w
+Scammers are great at their jobs and masters of disguise. The old scam of reading obituaries and mailing widows is alive and well on the web, but using today's dating websites.
 
 ---
 # Who is it *really* from?
@@ -56,9 +56,9 @@ Scammers are great at their jobs and masters of disguise. The old scam of readin
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjI1MDQ2ODQsMjAzNTQwMzExNiwxOD
-QwMjI0MTM2LC0yMTEwODE1MjA5LC0xMTU5ODQ0MDg1LC0yMzAy
-NDE1ODksLTY3ODEyODQ0NiwtOTU5NTM5MDQ0LC0yMTA5MzA2Nj
-UxLDc1NjkyMTU3OSw3OTcwMDI3ODksODI5NjYwNSwtNTY5MTY3
-OTMwXX0=
+eyJoaXN0b3J5IjpbLTIwNzU0NDAxMCwyMDM1NDAzMTE2LDE4ND
+AyMjQxMzYsLTIxMTA4MTUyMDksLTExNTk4NDQwODUsLTIzMDI0
+MTU4OSwtNjc4MTI4NDQ2LC05NTk1MzkwNDQsLTIxMDkzMDY2NT
+EsNzU2OTIxNTc5LDc5NzAwMjc4OSw4Mjk2NjA1LC01NjkxNjc5
+MzBdfQ==
 -->
